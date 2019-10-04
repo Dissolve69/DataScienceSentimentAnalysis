@@ -1,0 +1,151 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="{% static 'img/logo.png' %}">
+  <title>Fair eyes</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Rubik&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<body>
+  <header>
+    <div class="header">
+      <h2><img src="{% static 'img/logo.png' %}" class="header-logo">Data Science Sentiment Analysis & Fair Eye</h2>
+      
+        
+        <div class="content">
+      <h3 class="content-title"> presentation draft   </h3><Br>
+      <p>
+            저희 팀은 2019 한국 정보 올림피아드 코드페어 해커톤 준비를 위해 
+미국 언론에서 다루는 한국 관련 뉴스를 모니터링 할수 있는 Fair Eye 시스템을 개발해 일반인도 미국 언론이 다루는 한국 정보를 쉽게 찾을수 있도록 했습니다. <Br><Br>
+
+또한 Fair Eye 시스템 개발을 위해 사용한 스크래핑 기술을 이용해서  데이터를 수집하고 분류해 컴퓨터 (AI) 스스로 신문 사설과 기사의 긍정 부정 논조를 파악하는 Data Science Sentiment Analysis System 도 함께 개발했습니다. <Br><Br>
+          
+           
+          
+최근 구글 AI 연구 방향중 하나는 어린 아이들 그림을 컴퓨터가 이해하고 아이들이 묘사하는 능력을 컴퓨터에게 학습 시키는 것 입니다. 또한 문서를 자동 인식, 언어를  이해하고 구조를 파악하는 AI 연구를 진행하며 여러가지 서비스를 제공하고 있습니다.   <Br><Br>
+       
+               
+          <img src="{% static 'img/twitter_cover.png' %}" width=700 height=400 ><br>
+          from https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html
+            
+               
+        
+            </p>
+
+      <p>  구글을 선두로 세계 각 기업이 AI 자연어 처리 연구에 막대한 연구비를 쏟는 이유는 전 세계 기업 생존과 직결하는 Big Data 분석을 통한 새로운 마케팅 전략이 AI 자연어 처리 연구에 기반을 두고 있어서 입니다. <br><br>
+          
+          
+           <img src="{% static 'img/image5.png' %}" width=700 height=400 ><br>
+          from https://ai.googleblog.com/2019/09/giving-lens-new-reading-capabilities-in.html
+          
+          <Br><Br>
+
+슬래시 슬립 팀이 개발한 Data Science Sentiment Analysis 시스템은 AI 자연어 처리 방식 일부인 Polarity Detection 파트를 구현했습니다. <Br><Br>
+
+          ((코드 일부 띄움)) <Br><Br>
+          ((전체 프로젝트 플로우 차트 띄움))<Br><Br>
+이는 미국 언론을 대상으로 시도하며 모든 소스 코드 공개, 사용된 lexicon 화일을 데이터베이스화 하는 과정 공개, 그리고 관련 알고리즘 뼈대를 알기 쉽게 구현하며 모든것을 공개하는 것은 저희팀이 최초라 믿습니다. <Br><Br>
+  </p>
+
+      <p>지금 보시는 화면은 미국 내 구독자가 가장 많은 USAToday 언론사를 
+샘플로 한국 관련 뉴스를 실시간 자동으로 가져오게 하고 있습니다. <Br><Br>
+
+ 
+==========> 시연 <Br><Br>
+     =====================================> 2분 ~ 2분 30초
+</p>
+
+      <p>이를 응용하면 전 미국에 있는 모든 언론사의 한국 관련 기사와 언어적 문제만 해결한다면 전세계 언론을 상대로 한국 관련 기사를 자동으로 탐지하는 시스템을 개발 할수 있습니다. <Br><Br>
+          
+          <h1>
+              승현님 파트
+          </h1> 
+          ======================================================================== <Br><Br>
+          ======================================================================== <Br><Br>
+          <h1>
+              해솔님 파트
+          </h1> 
+                                                                                  
+
+<Br><Br>
+
+        <h1>
+           Robert Plutchik’s Emotional Wheel 
+    </h1>
+    <!--<img src="{% static 'img/plutchils-emotional-wheel.png' %}" width=600 height=500>--> <Br>
+     <img src="{% static 'img/Plutchik-Model-600.png' %}" > <Br><Br><Br>
+
+이러한 스크래핑 기술을 사용하면  Big Data 분석을 위한 데이터 수집을 쉽게 할수있고 이를 바탕으로 슬래시 슬립 팀은 Robert Plutchik's Emotional Wheel 에서 표현된 여러가지 인간의 감정 중 긍정적인 파트와  부정적인 파트를 AI 스스로 구분하는 Data Science Polarity Detection 시스템을 개발할수 있었습니다. <Br><Br>
+
+지금 보시는 화면은 저희팀이 만든 Polarity detection 샘플링 테스트를 보고 있습니다. <Br><Br>
+
+==========> 시연 <Br><Br>
+
+
+</p>
+
+    
+     <img src="{% static 'img/NLPgraph.png' %}" width=700 height=400><Br>
+    from https://sigmoidal.io/machine-learning-terminology-explained-top-8-must-know-concepts/<Br><Br>
+    
+      <p>
+        기사와 사설에 쓰인  단어를 University of Illinois at Chicago Computer Science 에서 제공한 lexicon 긍정 부정 단어와 비교하며 AI 스스로 기사와 사설의 긍정 부정 논조를 파악하고 있습니다. 관련 알고리즘과 작동 방식은 저희 사이트에 자세하게 기술되어 있습니다. <Br><Br>
+            
+          
+                
+          
+전세계 국가와 기업은 천문학적인 연구비를 투자해 AI 에 연구에 박차를 가하고 있습니다. 인간이 언어를 배우는 과정이 AI가 자연어 처리 습득 능력을 갖추어 나가는 과정과 비슷하며 정보 가공 능력을 AI 스스로 습득하며 작동할 경우 응용 산업 분야는 방대 합니다. <Br><Br>
+        <h5>
+            AI funding has increased over the past few yesrs  (AI 관련 기업 투자 증가)
+          </h5> 
+
+               <img src="{% static 'img/AI_funding_raised.jpeg' %}" ><br>
+          from https://medium.com/@VentureScanner/artificial-intelligence-funding-trends-q3-2017-4e8a9b80fe53 <Br><Br>
+              
+              
+세계적인 시장 조사업체 닐슨은 AI 를 이용한 Big Data 분석을 통해 고객에 대한 위험 예측 정보를 제공하고 있고, Google은 사람들의 관심사를 추적하는 Google Trends 를 통해 각 기업에게 정확한 마케팅 트렌드를 알려주며 방대한 데이터 처리를 위해 AI 를 이용하고 있습니다.<Br><Br>
+
+          구글은 2018 년 AI 에 관련된 연구를 하는 대학과 비영리 기관에 250 억원이 넘는 연구비를 지원했습니다 회사 스스로 하는 연구 이외에 전반적인 AI 연구가 미국 전체에서 실행이 되도록 구글은 앞장서고 있습니다 <Br><Br>
+
+        <a href="https://www.washingtonpost.com/education/2018/10/29/google-offers-money-universities-use-artificial-intelligence-scale-up-research/" target="_blank">https://www.washingtonpost.com/education/2018/10/29/google-offers-money-universities-use-artificial-intelligence-scale-up-research/</a><br><br>
+          
+미 정부는 새들의 이동경로 파악부터 우주탐사에 이르기까지 산업 전 분야의 AI 연구에 1조원이 넘는 돈을 순수 연구비로 책정했고 관련 대학과 연구기관에 전폭적인 지지를 보내고 있습니다.  <Br><Br>
+
+       
+           <a href="https://qz.com/1608983/how-much-nasa-dod-and-noaa-are-spending-on-ai-research/" target="_blank">https://qz.com/1608983/how-much-nasa-dod-and-noaa-are-spending-on-ai-research//</a><br><br>
+          
+MIT 는 대학 차원에서 1조원의 넘는 돈을 자체적으로 투자해 AI 대학을 별도로 세우겠다 발표했고 준비 작업에 들어갔습니다. <Br><br>
+ <a href="https://www.technologyreview.com/f/612293/mit-has-just-announced-a-1-billion-plan-to-create-a-new-college-for-ai/" target="_blank">https://www.technologyreview.com/f/612293/mit-has-just-announced-a-1-billion-plan-to-create-a-new-college-for-ai/</a><br><br>
+          
+          또한 중국은 10 조원이 넘는 돈을 3~4 년 안에 집중적으로 AI 산업에 투자 하겠다 나섰습니다. <Br><Br>
+<a href="http://theconversation.com/china-is-catching-up-to-the-us-on-artificial-intelligence-research-112119">http://theconversation.com/china-is-catching-up-to-the-us-on-artificial-intelligence-research-112119</a><br><br>
+          
+
+
+                       
+        아직 한국은 AI 연구가 많이 뒤쳐져 있습니다. <Br><Br>
+
+저희 슬래시 슬립팀은 AI Data Sciecne 연구 관련 일부나마 뼈대를 완성하고 보여줄수 있다면 관련 연구를 하는  다른 사람들에게 도움이 될거라 판단 했습니다. 그래서 한눈에 이해가 될수 있는 코드 방식과 심플한 구조를 만들었고  쉽게 다른 연구에 저희 프로그램이 이식될수 있도록 노력했습니다. <Br><Br>
+    
+2019 한국 정보 올림피아드 코드페어 해커톤을 통해 저희팀은 최선을 다 했고 그 결과물이 진심으로 
+다른 사람들에게 도움이 되길 바랍니다. <Br><Br>
+    
+감사합니다.
+    
+
+          
+          
+      </p>
+    </div> <!-- content -->
+
+    <div class="footer small">
+      &copy; 2019 - <a href="#" class="end">Data Science Sentiment Analysis & Fair eyes</a><br>
+      <a href="#">History</a> &nbsp;|&nbsp; <a href="#">Contact Us</a>
+    </div>
+  </body>
+</html>

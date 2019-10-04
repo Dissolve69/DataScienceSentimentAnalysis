@@ -1,0 +1,225 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fair Eye</title>
+</head>
+<body> 
+{% load staticfiles %}   
+    
+    
+Research Background: Data Science Sentiment Analysis <br/>
+
+Google AI is doing research in various ways. One of them is teaching a computer to comprehend drawings done by young children, and giving it the ability to draw objects like young children. <br/>
+https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html <br/> 
+    
+                      <br/> 
+    
+    <img src="{% static 'img/drawings.png' %}" alt=""><br>
+
+    
+Furthermore, AI research about perceiving new Google documents as well as understanding languages and their structures are taking place, providing multiple services. <br/>
+https://ai.googleblog.com/2019/09/giving-lens-new-reading-capabilities-in.html  
+<br/><br/>
+
+     <br/> 
+
+Procedure: <br/>
+
+Using the internet, we managed to find a file that contains positive words, and a file that contains negative words. If we showed the source, then the conditions were met and we could use the files. Thousands of positive and negative words were transplanted into a database. We made the program extract news articles used in the Fair Eye project word by word, and see how often each word was used. <br/>
+Also, we made the program compare the words extracted from the articles to the words in the database, and check how many positive and negative words were used. This is how the program can see whether the article is positive or negative. <br/>
+<br/><br/>
+
+Limitations: <br/>
+
+Due to the fact that we used Bag-of-words to determine the characteristics of the words and the amount of times the words were used, articles with a significant amount of sarcasm are difficult to deal with because the program could declare the words used sarcastically as legitimately positive words. <br/>
+An article with tons of negative words that end with a positive message could be seen as negative to the program, and an article with tons of positive words that end with a negative message could be seen as positive to the program as well. <br/><br/>
+
+
+Ideas: <br/>
+
+1. Giving a certain amount of points to each word (“Good” +1) (“Bad” -1) (“Best” +2) (“Worst” -2) <br/>
+2. Setting words or phrases that are important when grasping the context of the sentence, and using them to see if the entire article is positive or negative. (However, wasn’t it, don’t you think etc) <br/>
+3. Giving different points to the same word depending on the position of the word. (“Bad” in the introduction: -1, “Bad” in the body: -1.3, “Bad” in the conclusion: -1.7) <br/>
+4. Checking the atmosphere of the text and seeing whether a phrase that may have been used in a passive-aggressive manner was used in a good way or a bad way. (“Good for you”, “Whatever”, “Totally” etc) <br/><br/>
+
+
+
+Conclusion:<br/>
+
+In this research, we provided a prototype program that demonstrates Google's research directions and provides a stepstone for sentiment analysis research. We coded this program as simply as possible so others could easily jump in and add their contributions. <br/>
+
+We uploaded the prototype program to GitHub. We simplified the code as much as we could so that even Python and Django newbies with passion can understand the code within three to four days. Not only that, it makes it easier for people to edit the code. <br/><br/> 
+    
+================================ <br/><br/> 
+    
+Research Background: <br/>
+    
+구글 AI 연구 방향중 하나는 어린 아이들 그림을 컴퓨터가 이해하고 아이들이 사물을 묘사하는 능력을 컴퓨터에게 학습 시키는 것이다.  <br/>
+https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html <br/>
+    
+또한 최근 구글은 문서를 자동 인식, 언어를 이해하고 구조를 파악하는 AI 연구를 진행하며 여러가지 서비스를 제공한다. <br/>
+https://ai.googleblog.com/2019/09/giving-lens-new-reading-capabilities-in.html<br/><br/>
+ 
+Procedure:<br/>
+
+인터넷에서 negative words, positive words 화일을 구할수 있었고 사용 조건은 출처 표시였다. 수천개에 달하는 negative positive words 를 database 에 이식하고 Fair Eye  에서 추출한 미국 언론 기사를 단어별 추출, 빈도수 체크  그리고 database 와 비교하며 긍정 부정 단어중 어느 쪽 단어의 쓰임이 많은지 그리고 기사 내 단어 빈도수를 고려하며 프로그램을 진행하였다. <br/><br/>
+
+한계 <br/>
+
+Bag-of-words 는 단어 성격을 분류해 빈도수 체크에 기반하기 때문에 냉소적이고 비꼬는 글, 역설적인 단어 사용 경우에 정확한 긍정 부정 논조를 파악하기 힘들다. 또한 부정적인 단어의 사용이 많아도 결론을 긍정으로 내거나 긍정적인 단어의 사용이 많아도 글 결론이 부정적 일때 파악하기 힘들다. <br/><br/>
+
+개선 아이디어 & 방법론  <br/>
+
+1. 각 긍정, 부정 단어 수치화: Ex) (“Bad” -1) (“Worst” -2) (“Good” 1) (“Best” 2) <br/>
+2. 각 문맥 의미 파악에 중요 단어 또는 단어구 선정, 그로 인한 전체적인 글 긍정 부정 영향 연구 ( However, wasn’t it, don’t you think, ~하지 않니?, 그렇지 않을까? etc) <br/>
+3. 포지셔닝 파악후 단어 수치화: 같은 단어여도 서두 본문 결론 위치 파악 및 수치 차별화
+   (Ex Bad 라는 단어가 서두 Bad -1, 본문 Bad -1.3, 결론 Bad -1.7) <br/>
+4. Passive-Aggressive Words 일반적으로 의미가 상반되며 뉘앙스가 강하게 느껴지는 또는 톤에 따라 의미가 변하는 단어 단어구 연구 (Ex 잘났어, 너나 많이 먹어, Good for you, Whatever, Totally etc) <br/><br/>
+
+
+결론:<br/>
+
+이 연구를 통해 구글의 연구 방향 그리고 컴퓨터 스스로 기사의 긍정 부정을 판단하는 방법론과 연구에 쓰일수 있는 프로토타입 파이썬 프로그램을 직접 만들었다. 관련 연구가 다른 사람들이 더 활발하게 이어갈수 있도록 가급적 이해하기 쉽고 짧은 형태로 소개 하였다. <br/>
+
+또한 이 연구 프로토타입 프로그램을 Git Hub 를 통해 공개하였다. 파이썬 프로그램과 Database 초보도 열정만 있다면 3~4 일 안에 이해가 되도록 코딩 하였고 구조를 단순화 해서 누구나 수정이 쉽고 관련 연구에 관심이 있다면 자신만의 아이디어를 구현할수 있도록 했다. <br/><br/>
+    
+ <h1>Data Science Sentiment Analysis Polatity Detection Sampling Test </h1>
+ <a href="{% url 'SentiA' %}?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/" target="_blank">
+     https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/</a>
+<Br><Br>
+
+    <a href="{% url 'SentiA' %}?links=https://usatoday.com/story/news/world/2019/06/30/north-korea-kim-jong-un-evade-un-sanctions-get-luxury-limo-despite-trump-maximum-pressure/1523974001/" target="_blank">
+   https://usatoday.com/story/news/world/2019/06/30/north-korea-kim-jong-un-evade-un-sanctions-get-luxury-limo-despite-trump-maximum-pressure/1523974001/</a>
+<Br><Br>
+    
+     <a href="{% url 'SentiA' %}?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/" target="_blank">
+   https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/</a>
+
+    
+    <Br><Br>
+        
+    
+        
+  <a href="{% url 'SentiA' %}?links=https://usatoday.com/story/news/politics/2019/08/10/donald-trump-hints-meeting-north-koreas-kim-jong-un/1975006001/" target="_blank">
+ https://usatoday.com/story/news/politics/2019/08/10/donald-trump-hints-meeting-north-koreas-kim-jong-un/1975006001/</a>
+
+   
+<br><br>
+    <a href="{% url 'SentiA' %}?links=https://usatoday.com/story/news/world/2019/07/24/north-korea-fires-two-projectiles-into-sea-south-korean-military-says/1822759001/" target="_blank">
+ https://usatoday.com/story/news/world/2019/07/24/north-korea-fires-two-projectiles-into-sea-south-korean-military-says/1822759001/</a>
+       <br><br>
+        
+            <a href="{% url 'SentiA' %}?links=https://usatoday.com/story/news/politics/2019/08/26/white-house-clarifies-first-lady-melania-trump-hasnt-met-kim-jong-un/2125295001/" target="_blank">
+ https://usatoday.com/story/news/politics/2019/08/26/white-house-clarifies-first-lady-melania-trump-hasnt-met-kim-jong-un/2125295001/</a>
+       <br><br>
+        
+        <a href="{% url 'SentiA' %}?links=https://usatoday.com/story/news/politics/2019/07/01/ivanka-trump-first-daughter-slammed-role-unofficial-diplomat/1616324001/" target="_blank">
+ https://usatoday.com/story/news/politics/2019/07/01/ivanka-trump-first-daughter-slammed-role-unofficial-diplomat/1616324001/</a>
+       <br><br>
+        
+         <a href="{% url 'SentiA' %}?links= https://www.usatoday.com/story/opinion/2019/09/24/how-game-thrones-taught-tragedy-war-column/2418156001/" target="_blank">
+  https://www.usatoday.com/story/opinion/2019/09/24/how-game-thrones-taught-tragedy-war-column/2418156001/</a>
+       <br><br>
+        
+         <a href="{% url 'SentiA' %}?links=https://www.usatoday.com/story/opinion/voices/2019/09/24/local-news-buffalo-personal-report-for-america-column/2418392001/" target="_blank">
+ https://www.usatoday.com/story/opinion/voices/2019/09/24/local-news-buffalo-personal-report-for-america-column/2418392001/</a>
+       <br><br>
+  
+  
+
+        
+        
+        
+        
+        
+        
+<br/><br/>
+    
+
+
+
+            ================================ <br/><br/>
+    
+Project Name: US Press Monitoring System (Fair Eye)  <br/><br/>
+
+During the South Korea/Japan trade war, the opinions of American opinion leaders and the American press were important. <br/>
+However, the trade war was a controversial topic, and it was difficult to confirm their opinions. <br/><br/>
+
+This project was designed to monitor the reactions and opinions shown in American news articles about South Korea. To prove the potential of this project, we decided to use the news source with the most subscribers in the United States as a sample, USA Today. <br/><br/>
+
+Moreover, we did some research on Data Science Sentiment Analysis so we could better understand how computers (AI) would determine whether an article’s topic was positive or negative. The procedure and the results of this research will be revealed in the Korean Olympiad in Informatics’ Code Fair Hackathon. <br/><br/>
+
+This project was started by a team of high school students in South Korea. <br/>
+This project will not be used commercially in any way. <br/>
+The purpose of this project is to bring people accurate information and help with future AI research. <br/><br/>
+
+In order to proceed with the project, a Python Django Database (SQLite3) was used. 
+Using the MVC (Model-View-Controller) pattern system, we made it possible to work on designing and developing separately, decreasing the effects they have on each other. 
+Also, we vowed to obey the “If you can read plain English, you can understand our source code” rule as much as we could. <br/>
+For the people that are interested in the research of Fair Eye/Data Science Sentiment Analysis and further development, we spent some time working on documents as well. 
+<br/><br/>
+
+Documents about the project, documents about Data Science Sentiment Analysis and the source code will be available on GitHub. <br/><br/> <br/><br/>
+    
+    
+
+================================ <br/><br/> 
+
+Project Name:  US Press Monitoring System (Fair Eye) <br><br>
+
+한일 무역 전쟁이 심화 되면서 양국 관계를 조율 해줄수 있는 미국 오피니언 리더 그리고 미국 언론 반응을 중요하게 다루어야 했다<Br>
+하지만 민감한 이슈에 대해 한국 일부 언론이 소개해 주는 극소수 미국 언론 반응 이외에는 <Br>
+전체적인 미국 오피니언 리더 그리고 전체적인 미국 언론 반응을 확인하기 힘들었다<Br><br>
+
+이 프로젝트는 한국 관련 미국 언론 반응을 전반적으로 모니터할수 있도록 디자인 되었고 <br>
+그 가능성과 작동 과정을 보여주기 위해 미국에서 가장 구독자가 많은 언론사인 USA Today 를 샘플로 선정해 진행하였다.<br><br>
+
+또한 컴퓨터(AI) 스스로 기사의 논조 긍정 부정을 파악할수 있는 Data Science Sentiment Anaylysis 연구를 함께 진행하였고<Br>
+해당 연구 과정과 결과를 한국 정보 올림피아드 코드 페어 해커톤을 통해 공개한다. <Br><Br>
+
+
+================================ <br/><br/>
+
+
+<h1>USAToday - korea realated news from USA Today (searching result 1-4) </h1>
+
+<!--
+{% for USAtoday in USAtodays %}
+       {{USAtoday}}
+<br/><br/>
+{% endfor %}
+-->  
+{% for links in links %}
+        <!--<a href="{% url 'SentiA' %}?links={{links}}" target="_blank">{{links}} -->
+        <a href="{{links}}" target="_blank">{{links}}
+<br/><br/>
+{% endfor %} 
+            
+<!--
+{% for title in titles %}
+       {{title}}
+<br/><br/>
+{% endfor %}
+
+
+
+{% for date in dates %}
+       {{date}}
+<br />
+{% endfor %}
+
+{% for link in links %}
+       {{link}}
+<br />
+{% endfor %}
+
+{% for author in authors %}
+       {{author}}
+<br />
+{% endfor %}
+
+-->
+</body>
+</html>

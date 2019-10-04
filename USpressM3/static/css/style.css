@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Rubik', 'Nanum Gothic';
+  font-weight : bold;
+  line-height: 1.8;
+  font-size: 14px;
+  color: black;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+h1{
+  margin-bottom: 40px;
+}
+
+hr{
+  margin: 50px 0;
+}
+
+mark{
+  background-color : #6495ed;
+  opacity: 0.5;
+  color: black;
+}
+
+header {
+  border-bottom: 1px solid #d6d6d6;
+  margin-bottom: 60px;
+}
+
+.header {
+  padding: 60px;
+  color: #222;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.header-logo{
+    width: 70px;
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 60%;
+  overflow: auto;
+}
+
+.content {
+  padding: 0 60px;
+  margin-bottom: 40px;
+}
+
+.footer {
+  text-align: center;
+  clear: both;
+  padding: 30px 0;
+  color: #000;
+  border-top: 1px solid #ddd;
+}
+
+.end{
+  color: black;
+}
+
+.end:hover{
+  color: black;
+  text-decoration: none;
+}
+
+.name{
+  color: gray;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.word, .word-front{
+  display: inline-block;
+}
+
+.word{
+  font-size: 25px;
+}
