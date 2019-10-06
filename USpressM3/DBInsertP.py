@@ -7,7 +7,8 @@ import sqlite3
 
 
 
-conn = sqlite3.connect("db.sqlite3")
+#conn = sqlite3.connect("db.sqlite3")
+conn=sqlite3.connect("/workspace/USpressM3/db.sqlite3")
 cur = conn.cursor()
 
 with open ('positive-words.txt') as fp:

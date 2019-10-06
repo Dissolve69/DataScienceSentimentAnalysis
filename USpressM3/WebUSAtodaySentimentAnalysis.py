@@ -22,6 +22,7 @@ def sentia(request):
 
 # --- authors, title, dates --- #
     
+    """
     title = soup.find(attrs={"class": "asset-headline speakable-headline"}).text
     author = soup.find(attrs={"class": "asset-metabar-author asset-metabar-item"}).text
     # , 뒤에 (special to USA TODAY 이런거 삭제 원할 시 밑에 주석 풀어주시면 됩니다)
@@ -31,6 +32,7 @@ def sentia(request):
     #date 도 update 말고 published 만 띄우고 싶으시면 아래 주석 풀어주시면 됩니다
     datetmp = date.split("|")
     date = datetmp[0].strip()
+    """
     
         
 # --- authors, title, dates --- #
@@ -57,6 +59,23 @@ def sentia(request):
 # ---------------- 문장 스크래핑 ---------------- #
 
 
+
+# --- authors, title, dates --- #
+    
+    title = soup.find(attrs={"class": "asset-headline speakable-headline"}).text
+    author = soup.find(attrs={"class": "asset-metabar-author asset-metabar-item"}).text
+    # , 뒤에 (special to USA TODAY 이런거 삭제 원할 시 밑에 주석 풀어주시면 됩니다)
+    #authortmp = author.split(",")
+    #author = authortmp[0]
+    date = soup.find(attrs={"class": "asset-metabar-time asset-metabar-item nobyline"}).text
+    #date 도 update 말고 published 만 띄우고 싶으시면 아래 주석 풀어주시면 됩니다
+    datetmp = date.split("|")
+    date = datetmp[0].strip()
+    
+        
+# --- authors, title, dates --- #
+
+
 # ---------------- Word Count ---------------- #
     wordlist = content.split()
     worddictionary = {}
@@ -78,7 +97,8 @@ def sentia(request):
 
 #------------------ Basic Sentiment Analysis ------------------#
    
-    conn = sqlite3.connect("db.sqlite3")
+    #conn = sqlite3.connect("db.sqlite3")
+    conn=sqlite3.connect("/workspace/USpressM3/db.sqlite3")
     cur = conn.cursor()
 
     PositiveNum = 0
