@@ -2860,3 +2860,670 @@ Not Found: /favicon.ico
 [06/Oct/2019 10:57:22] "GET / HTTP/1.1" 200 57176
 [06/Oct/2019 10:57:22] "GET /static/css/style.css HTTP/1.1" 304 0
 [06/Oct/2019 10:57:33] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[06/Oct/2019 11:03:34] "GET / HTTP/1.1" 200 57319
+[06/Oct/2019 11:03:38] "GET / HTTP/1.1" 200 57319
+[06/Oct/2019 11:03:55] "GET / HTTP/1.1" 200 57319
+[06/Oct/2019 11:04:52] "GET / HTTP/1.1" 200 57322
+[06/Oct/2019 11:05:26] "GET / HTTP/1.1" 200 57338
+[06/Oct/2019 11:07:20] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:07:40] "GET /presentation/ HTTP/1.1" 200 9738
+[06/Oct/2019 11:07:40] "GET /static/img/code1.png HTTP/1.1" 304 0
+[06/Oct/2019 11:07:40] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 11:07:40] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 11:08:09] "GET /presentation/ HTTP/1.1" 200 9910
+[06/Oct/2019 11:08:31] "GET /presentation/ HTTP/1.1" 200 9929
+[06/Oct/2019 11:11:03] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:13:55] "GET /presentation/ HTTP/1.1" 200 9929
+[06/Oct/2019 11:13:55] "GET /static/img/code1.png HTTP/1.1" 304 0
+[06/Oct/2019 11:13:55] "GET /static/img/image5.png HTTP/1.1" 304 0
+[06/Oct/2019 11:13:55] "GET /static/img/twitter_cover.png HTTP/1.1" 304 0
+[06/Oct/2019 11:13:55] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 11:13:55] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 11:14:14] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:14:25] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:15:12] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[06/Oct/2019 11:15:25] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[06/Oct/2019 11:15:48] "GET /SentiA/?links=%20https://usatoday.com/story/news/world/2019/08/01/north-korea-says-tested-new-rocket-launch-system/1886449001/ HTTP/1.1" 200 12914
+[06/Oct/2019 11:17:42] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:17:46] "GET /presentation/ HTTP/1.1" 200 9929
+[06/Oct/2019 11:18:24] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:18:33] "GET /presentation/ HTTP/1.1" 200 9929
+[06/Oct/2019 11:21:58] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:22:19] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:25:36] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[06/Oct/2019 11:26:34] "GET /SentiA/?links=%20https://usatoday.com/story/news/world/2019/08/01/north-korea-says-tested-new-rocket-launch-system/1886449001/ HTTP/1.1" 200 12914
+[06/Oct/2019 11:29:44] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:29:48] "GET /presentation/ HTTP/1.1" 200 9929
+[06/Oct/2019 11:32:58] "GET /presentation/ HTTP/1.1" 200 9929
+[06/Oct/2019 11:33:47] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[06/Oct/2019 11:33:56] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[06/Oct/2019 11:35:22] "GET /presentation/ HTTP/1.1" 200 9925
+[06/Oct/2019 11:35:22] "GET /static/img/code1.png HTTP/1.1" 304 0
+[06/Oct/2019 11:35:47] "GET /presentation/ HTTP/1.1" 200 9925
+[06/Oct/2019 11:36:23] "GET /presentation/ HTTP/1.1" 200 9926
+[06/Oct/2019 11:36:39] "GET /presentation/ HTTP/1.1" 200 9927
+[06/Oct/2019 11:38:20] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 11:39:12] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[06/Oct/2019 11:39:28] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[06/Oct/2019 11:48:05] "GET / HTTP/1.1" 200 57499
+/workspace/USpressM3/USpressM3/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 06, 2019 - 04:25:01
+Django version 2.2.4, using settings 'USpressM3.settings'
+Starting development server at http://0:80/
+Quit the server with CONTROL-C.
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+중립 내용의 기사입니다, 정확도 99%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+중립 내용의 기사입니다, 정확도 93%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+중립 내용의 기사입니다, 정확도 95%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+중립 내용의 기사입니다, 정확도 98%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+중립 내용의 기사입니다, 정확도 98%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+중립 내용의 기사입니다, 정확도 99%
+###########################################
+중립 내용의 기사입니다, 정확도 99%
+###########################################
+중립 내용의 기사입니다, 정확도 99%
+###########################################
+중립 내용의 기사입니다, 정확도 98%
+###########################################
+부정 내용의 기사입니다, 정확도 80%
+###########################################
+중립 내용의 기사입니다, 정확도 98%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 70%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+중립 내용의 기사입니다, 정확도 99%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 70%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 70%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+부정 내용의 기사입니다, 정확도 89%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+Watching for file changes with StatReloader
+/workspace/USpressM3/USpressM3/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 06, 2019 - 11:56:36
+Django version 2.2.4, using settings 'USpressM3.settings'
+Starting development server at http://0:80/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[06/Oct/2019 12:00:01] "GET / HTTP/1.1" 200 57499
+[06/Oct/2019 12:08:34] "GET / HTTP/1.1" 200 57510
+Internal Server Error: /SentiA/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/workspace/USpressM3/USpressM3/WebUSAtodaySentimentAnalysis.py", line 19, in sentia
+    page = requests.get(deeppage)
+  File "/usr/local/lib/python3.7/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 640, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 731, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+requests.exceptions.InvalidSchema: No connection adapters were found for '['https://usatoday.com/story/news/world/2019/10/05/north-kprea-talks-break-down-stockholm/3881927002/', 'https://usatoday.com/story/news/world/2019/10/03/north-korea-successfully-tests-submarine-missile-japan-protests/3850073002/', 'https://usatoday.com/story/news/world/2019/10/02/north-korea-fires-missile/3838647002/', 'https://usatoday.com/story/news/politics/2019/10/01/north-korea-us-hold-nuclear-talks-after-missile-tests-report-says/3827898002/', 'https://usatoday.com/story/news/2019/10/05/us-nkorea-nuclear-talks-weather-south-5-things-know-weekend/3829617002/', 'https://usatoday.com/story/news/world/2019/09/30/john-bolton-kim-jong-un-never-give-up-weapons-voluntarily/3818028002/', 'https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/', 'https://usatoday.com/story/news/world/2019/09/10/donald-trump-and-john-bolton-clashed-over-iran-north-korea-venezuela/2275278001/', 'https://usatoday.com/story/news/world/2019/09/09/n-korea-says-its-ready-restart-talks-trump-but-tests-weapons/2270143001/', 'https://usatoday.com/story/news/politics/2019/09/11/trump-john-bolton-way-out-line-north-korea-venezuela/2287579001/', 'https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/']'
+[06/Oct/2019 12:08:39] "GET /SentiA/?links=[%27https://usatoday.com/story/news/world/2019/10/05/north-kprea-talks-break-down-stockholm/3881927002/%27,%20%27https://usatoday.com/story/news/world/2019/10/03/north-korea-successfully-tests-submarine-missile-japan-protests/3850073002/%27,%20%27https://usatoday.com/story/news/world/2019/10/02/north-korea-fires-missile/3838647002/%27,%20%27https://usatoday.com/story/news/politics/2019/10/01/north-korea-us-hold-nuclear-talks-after-missile-tests-report-says/3827898002/%27,%20%27https://usatoday.com/story/news/2019/10/05/us-nkorea-nuclear-talks-weather-south-5-things-know-weekend/3829617002/%27,%20%27https://usatoday.com/story/news/world/2019/09/30/john-bolton-kim-jong-un-never-give-up-weapons-voluntarily/3818028002/%27,%20%27https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/%27,%20%27https://usatoday.com/story/news/world/2019/09/10/donald-trump-and-john-bolton-clashed-over-iran-north-korea-venezuela/2275278001/%27,%20%27https://usatoday.com/story/news/world/2019/09/09/n-korea-says-its-ready-restart-talks-trump-but-tests-weapons/2270143001/%27,%20%27https://usatoday.com/story/news/politics/2019/09/11/trump-john-bolton-way-out-line-north-korea-venezuela/2287579001/%27,%20%27https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/%27] HTTP/1.1" 500 118294
+Internal Server Error: /SentiA/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/workspace/USpressM3/USpressM3/WebUSAtodaySentimentAnalysis.py", line 19, in sentia
+    page = requests.get(deeppage)
+  File "/usr/local/lib/python3.7/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 640, in send
+    adapter = self.get_adapter(url=request.url)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 731, in get_adapter
+    raise InvalidSchema("No connection adapters were found for '%s'" % url)
+requests.exceptions.InvalidSchema: No connection adapters were found for '['https://usatoday.com/story/news/world/2019/10/05/north-kprea-talks-break-down-stockholm/3881927002/', 'https://usatoday.com/story/news/world/2019/10/03/north-korea-successfully-tests-submarine-missile-japan-protests/3850073002/', 'https://usatoday.com/story/news/world/2019/10/02/north-korea-fires-missile/3838647002/', 'https://usatoday.com/story/news/politics/2019/10/01/north-korea-us-hold-nuclear-talks-after-missile-tests-report-says/3827898002/', 'https://usatoday.com/story/news/2019/10/05/us-nkorea-nuclear-talks-weather-south-5-things-know-weekend/3829617002/', 'https://usatoday.com/story/news/world/2019/09/30/john-bolton-kim-jong-un-never-give-up-weapons-voluntarily/3818028002/', 'https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/', 'https://usatoday.com/story/news/world/2019/09/10/donald-trump-and-john-bolton-clashed-over-iran-north-korea-venezuela/2275278001/', 'https://usatoday.com/story/news/world/2019/09/09/n-korea-says-its-ready-restart-talks-trump-but-tests-weapons/2270143001/', 'https://usatoday.com/story/news/politics/2019/09/11/trump-john-bolton-way-out-line-north-korea-venezuela/2287579001/', 'https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/']'
+[06/Oct/2019 12:08:55] "GET /SentiA/?links=[%27https://usatoday.com/story/news/world/2019/10/05/north-kprea-talks-break-down-stockholm/3881927002/%27,%20%27https://usatoday.com/story/news/world/2019/10/03/north-korea-successfully-tests-submarine-missile-japan-protests/3850073002/%27,%20%27https://usatoday.com/story/news/world/2019/10/02/north-korea-fires-missile/3838647002/%27,%20%27https://usatoday.com/story/news/politics/2019/10/01/north-korea-us-hold-nuclear-talks-after-missile-tests-report-says/3827898002/%27,%20%27https://usatoday.com/story/news/2019/10/05/us-nkorea-nuclear-talks-weather-south-5-things-know-weekend/3829617002/%27,%20%27https://usatoday.com/story/news/world/2019/09/30/john-bolton-kim-jong-un-never-give-up-weapons-voluntarily/3818028002/%27,%20%27https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/%27,%20%27https://usatoday.com/story/news/world/2019/09/10/donald-trump-and-john-bolton-clashed-over-iran-north-korea-venezuela/2275278001/%27,%20%27https://usatoday.com/story/news/world/2019/09/09/n-korea-says-its-ready-restart-talks-trump-but-tests-weapons/2270143001/%27,%20%27https://usatoday.com/story/news/politics/2019/09/11/trump-john-bolton-way-out-line-north-korea-venezuela/2287579001/%27,%20%27https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/%27] HTTP/1.1" 500 118429
+[06/Oct/2019 12:09:08] "GET / HTTP/1.1" 200 57576
+[06/Oct/2019 12:09:11] "GET / HTTP/1.1" 200 57576
+[06/Oct/2019 12:09:58] "GET / HTTP/1.1" 200 57576
+[06/Oct/2019 12:10:54] "GET / HTTP/1.1" 200 28392
+[06/Oct/2019 12:11:04] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/10/03/north-korea-successfully-tests-submarine-missile-japan-protests/3850073002/ HTTP/1.1" 200 10099
+[06/Oct/2019 12:11:15] "GET /SentiA/?links=https://usatoday.com/story/news/2019/10/05/us-nkorea-nuclear-talks-weather-south-5-things-know-weekend/3829617002/ HTTP/1.1" 200 12956
+[06/Oct/2019 12:17:24] "GET / HTTP/1.1" 200 28392
+[06/Oct/2019 12:23:29] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 12:23:37] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 12:39:21] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 12:40:13] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 12:43:22] "GET /SentiA/?links=%20https://www.usatoday.com/story/opinion/2019/09/24/how-game-thrones-taught-tragedy-war-column/2418156001/ HTTP/1.1" 200 17366
+[06/Oct/2019 12:43:56] "GET /presentation/ HTTP/1.1" 200 9927
+[06/Oct/2019 12:43:56] "GET /static/img/code1.png HTTP/1.1" 304 0
+[06/Oct/2019 12:43:56] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 12:43:56] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+/workspace/USpressM3/USpressM3/WebUSAtodaySentimentAnalysis.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 06, 2019 - 11:57:17
+Django version 2.2.4, using settings 'USpressM3.settings'
+Starting development server at http://0:80/
+Quit the server with CONTROL-C.
+###########################################
+긍정 내용의 기사입니다, 정확도 75%
+###########################################
+중립 내용의 기사입니다, 정확도 95%
+###########################################
+중립 내용의 기사입니다, 정확도 95%
+Watching for file changes with StatReloader
+[06/Oct/2019 12:48:54] "GET / HTTP/1.1" 200 28403
+Internal Server Error: /SentiA/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/workspace/USpressM3/USpressM3/WebUSAtodaySentimentAnalysis.py", line 66, in sentia
+    title = soup.find(attrs={"class": "asset-headline speakable-headline"}).text
+AttributeError: 'NoneType' object has no attribute 'text'
+[06/Oct/2019 12:49:04] "GET /SentiA/?links=https://usatoday.com/story/news/politics/2019/08/26/white-house-clarifies-first-lady-melania-trump-hasnt-met-kim-jong-un/2125295001/ HTTP/1.1" 500 76085
+[06/Oct/2019 12:49:11] "GET /SentiA/?links=https://usatoday.com/story/news/politics/2019/08/26/white-house-clarifies-first-lady-melania-trump-hasnt-met-kim-jong-un/2125295001/ HTTP/1.1" 200 6790
+[06/Oct/2019 12:50:46] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 12:50:54] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[06/Oct/2019 12:51:18] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[06/Oct/2019 12:51:42] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[06/Oct/2019 12:52:00] "GET /presentation/ HTTP/1.1" 200 9995
+[06/Oct/2019 12:52:36] "GET /presentation/ HTTP/1.1" 200 10043
+[06/Oct/2019 12:53:46] "GET /presentation/ HTTP/1.1" 200 10142
+[06/Oct/2019 12:53:49] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 12:56:52] "GET /presentation/ HTTP/1.1" 200 10194
+[06/Oct/2019 12:57:02] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 13:37:36] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 13:37:46] "GET /SentiA/?links=https://usatoday.com/story/news/politics/2019/08/10/donald-trump-hints-meeting-north-koreas-kim-jong-un/1975006001/ HTTP/1.1" 200 9724
+[06/Oct/2019 13:37:55] "GET /presentation/ HTTP/1.1" 200 10194
+[06/Oct/2019 13:37:55] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 304 0
+[06/Oct/2019 13:37:55] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 304 0
+[06/Oct/2019 13:37:55] "GET /static/img/code1.png HTTP/1.1" 304 0
+[06/Oct/2019 13:37:55] "GET /static/img/NLPgraph.png HTTP/1.1" 304 0
+[06/Oct/2019 13:37:55] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 13:37:55] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 13:38:05] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 13:38:18] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[06/Oct/2019 13:39:32] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 13:40:35] "GET /presentation/ HTTP/1.1" 200 10194
+[06/Oct/2019 13:40:54] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 13:44:30] "GET /SentiA/?links=https://usatoday.com/story/news/politics/2019/08/10/donald-trump-hints-meeting-north-koreas-kim-jong-un/1975006001/ HTTP/1.1" 200 9724
+/workspace/USpressM3/USpressM3/WebUSAtodaySentimentAnalysis.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 06, 2019 - 12:48:26
+Django version 2.2.4, using settings 'USpressM3.settings'
+Starting development server at http://0:80/
+Quit the server with CONTROL-C.
+###########################################
+중립 내용의 기사입니다, 정확도 94%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+부정 내용의 기사입니다, 정확도 73%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+중립 내용의 기사입니다, 정확도 98%
+###########################################
+긍정 내용의 기사입니다, 정확도 81%
+###########################################
+중립 내용의 기사입니다, 정확도 98%
+Watching for file changes with StatReloader
+[06/Oct/2019 15:49:18] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 15:49:28] "GET /presentation/ HTTP/1.1" 200 10194
+[06/Oct/2019 15:49:29] "GET /static/img/twitter_cover.png HTTP/1.1" 304 0
+[06/Oct/2019 15:49:29] "GET /static/img/image5.png HTTP/1.1" 304 0
+[06/Oct/2019 15:49:29] "GET /static/img/code1.png HTTP/1.1" 200 45729
+[06/Oct/2019 15:49:29] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 304 0
+[06/Oct/2019 15:49:29] "GET /static/img/NLPgraph.png HTTP/1.1" 304 0
+[06/Oct/2019 15:49:29] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 15:49:29] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 304 0
+[06/Oct/2019 15:49:29] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+[06/Oct/2019 22:59:40] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 22:59:40] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 22:59:40] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[06/Oct/2019 22:59:40] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[06/Oct/2019 22:59:40] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[06/Oct/2019 23:02:17] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[06/Oct/2019 23:02:39] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[06/Oct/2019 23:02:39] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 23:02:39] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[06/Oct/2019 23:02:53] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[06/Oct/2019 23:02:53] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 23:02:53] "GET /static/img/logo.png HTTP/1.1" 200 125102
+Not Found: /prrsentation
+[06/Oct/2019 23:04:54] "GET /prrsentation HTTP/1.1" 404 2361
+Not Found: /favicon.ico
+[06/Oct/2019 23:04:54] "GET /favicon.ico HTTP/1.1" 404 2358
+[06/Oct/2019 23:05:29] "GET /presentation HTTP/1.1" 301 0
+[06/Oct/2019 23:05:30] "GET /presentation/ HTTP/1.1" 200 10194
+[06/Oct/2019 23:05:30] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[06/Oct/2019 23:05:30] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 23:05:30] "GET /static/img/twitter_cover.png HTTP/1.1" 200 287476
+[06/Oct/2019 23:05:30] "GET /static/img/image5.png HTTP/1.1" 200 283201
+[06/Oct/2019 23:05:30] "GET /static/img/code1.png HTTP/1.1" 200 45729
+[06/Oct/2019 23:05:30] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 200 67699
+[06/Oct/2019 23:05:30] "GET /static/img/NLPgraph.png HTTP/1.1" 200 20641
+[06/Oct/2019 23:05:30] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 200 31936
+[06/Oct/2019 23:05:30] "GET /static/img/China_AI.jpg HTTP/1.1" 200 94035
+[06/Oct/2019 23:05:30] "GET /static/img/MIT_AI.jpg HTTP/1.1" 200 329815
+[06/Oct/2019 23:09:04] "GET /presentation/ HTTP/1.1" 200 10194
+[06/Oct/2019 23:09:11] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 23:09:11] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[06/Oct/2019 23:09:11] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[06/Oct/2019 23:10:15] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/06/30/north-korea-kim-jong-un-evade-un-sanctions-get-luxury-limo-despite-trump-maximum-pressure/1523974001/ HTTP/1.1" 200 21334
+[06/Oct/2019 23:10:15] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 23:10:15] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[06/Oct/2019 23:10:57] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[06/Oct/2019 23:10:58] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[06/Oct/2019 23:10:58] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 23:14:48] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/06/30/north-korea-kim-jong-un-evade-un-sanctions-get-luxury-limo-despite-trump-maximum-pressure/1523974001/ HTTP/1.1" 200 21334
+[06/Oct/2019 23:14:48] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[06/Oct/2019 23:14:48] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 23:16:38] "GET / HTTP/1.1" 200 28403
+[06/Oct/2019 23:16:38] "GET /static/css/style.css HTTP/1.1" 200 949
+[06/Oct/2019 23:16:38] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[06/Oct/2019 23:16:38] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[06/Oct/2019 23:16:38] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:22:48] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 00:22:49] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:22:49] "GET /static/css/style.css HTTP/1.1" 304 0
+[07/Oct/2019 00:22:49] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 00:22:49] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 00:23:02] "GET /presentation HTTP/1.1" 301 0
+[07/Oct/2019 00:23:02] "GET /presentation/ HTTP/1.1" 200 10194
+[07/Oct/2019 00:23:02] "GET /static/img/twitter_cover.png HTTP/1.1" 200 287476
+[07/Oct/2019 00:23:02] "GET /static/img/image5.png HTTP/1.1" 200 283201
+[07/Oct/2019 00:23:02] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 200 67699
+[07/Oct/2019 00:23:02] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 200 31936
+[07/Oct/2019 00:23:02] "GET /static/img/NLPgraph.png HTTP/1.1" 200 20641
+[07/Oct/2019 00:23:02] "GET /static/img/code1.png HTTP/1.1" 200 45729
+[07/Oct/2019 00:23:03] "GET /static/img/MIT_AI.jpg HTTP/1.1" 200 329815
+[07/Oct/2019 00:23:03] "GET /static/img/China_AI.jpg HTTP/1.1" 200 94035
+[07/Oct/2019 00:24:00] "GET /presentation/ HTTP/1.1" 200 10158
+[07/Oct/2019 00:24:00] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:24:02] "GET /presentation/ HTTP/1.1" 200 10158
+[07/Oct/2019 00:24:02] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:25:07] "GET /presentation/ HTTP/1.1" 200 10204
+[07/Oct/2019 00:25:07] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:25:24] "GET /presentation/ HTTP/1.1" 200 10216
+[07/Oct/2019 00:25:24] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:25:58] "GET /presentation/ HTTP/1.1" 200 10230
+[07/Oct/2019 00:25:59] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:26:00] "GET /presentation/ HTTP/1.1" 200 10230
+[07/Oct/2019 00:26:00] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:26:16] "GET /presentation/ HTTP/1.1" 200 10245
+[07/Oct/2019 00:26:16] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:27:22] "GET /presentation/ HTTP/1.1" 200 10182
+[07/Oct/2019 00:27:23] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:27:34] "GET /presentation/ HTTP/1.1" 200 10207
+[07/Oct/2019 00:27:34] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:27:43] "GET /presentation/ HTTP/1.1" 200 10171
+[07/Oct/2019 00:27:44] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:27:50] "GET /presentation/ HTTP/1.1" 200 10207
+[07/Oct/2019 00:27:50] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:28:21] "GET /presentation/ HTTP/1.1" 200 10207
+[07/Oct/2019 00:28:21] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:28:29] "GET /presentation/ HTTP/1.1" 200 10207
+[07/Oct/2019 00:28:29] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:30:17] "GET /presentation/ HTTP/1.1" 200 10186
+[07/Oct/2019 00:30:17] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:30:35] "GET /presentation/ HTTP/1.1" 200 10179
+[07/Oct/2019 00:30:35] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 00:30:42] "GET /presentation/ HTTP/1.1" 200 10183
+[07/Oct/2019 00:30:42] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 02:05:18] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 02:05:18] "GET /static/img/image3.jpg HTTP/1.1" 304 0
+[07/Oct/2019 02:05:18] "GET /static/css/style.css HTTP/1.1" 304 0
+[07/Oct/2019 02:06:05] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[07/Oct/2019 02:07:24] "GET /presentation/ HTTP/1.1" 200 10183
+[07/Oct/2019 02:07:25] "GET /static/img/code1.png HTTP/1.1" 304 0
+[07/Oct/2019 02:07:25] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 304 0
+[07/Oct/2019 02:07:25] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 304 0
+[07/Oct/2019 02:07:25] "GET /static/img/NLPgraph.png HTTP/1.1" 304 0
+[07/Oct/2019 02:07:25] "GET /static/img/twitter_cover.png HTTP/1.1" 304 0
+[07/Oct/2019 02:07:25] "GET /static/img/image5.png HTTP/1.1" 304 0
+[07/Oct/2019 02:07:25] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[07/Oct/2019 02:07:25] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+[07/Oct/2019 02:12:26] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 02:22:55] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 02:22:55] "GET /static/img/twitter_cover.png HTTP/1.1" 200 287476
+[07/Oct/2019 02:22:55] "GET /static/img/image5.png HTTP/1.1" 200 283201
+[07/Oct/2019 02:22:55] "GET /static/img/code1.png HTTP/1.1" 200 45729
+[07/Oct/2019 02:22:56] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 200 67699
+[07/Oct/2019 02:22:56] "GET /static/img/NLPgraph.png HTTP/1.1" 200 20641
+[07/Oct/2019 02:22:56] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 200 31936
+[07/Oct/2019 02:22:56] "GET /static/img/MIT_AI.jpg HTTP/1.1" 200 329815
+[07/Oct/2019 02:22:56] "GET /static/img/China_AI.jpg HTTP/1.1" 200 94035
+[07/Oct/2019 02:33:00] "GET /presentation/ HTTP/1.1" 200 10183
+[07/Oct/2019 02:33:00] "GET /static/img/code1.png HTTP/1.1" 304 0
+[07/Oct/2019 02:33:01] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 02:34:05] "GET /presentation/ HTTP/1.1" 200 10183
+[07/Oct/2019 02:34:05] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 04:14:49] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 04:14:49] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 04:14:49] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 04:14:49] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 04:14:49] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 04:18:06] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[07/Oct/2019 04:18:24] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 04:18:24] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 04:18:24] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 04:18:24] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 04:18:24] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 04:18:31] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 04:18:39] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 04:18:39] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 04:18:39] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 04:19:52] "GET /presentation/ HTTP/1.1" 200 10183
+[07/Oct/2019 04:19:52] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 04:19:52] "GET /static/img/image5.png HTTP/1.1" 200 283201
+[07/Oct/2019 04:19:53] "GET /static/img/code1.png HTTP/1.1" 200 45729
+[07/Oct/2019 04:19:53] "GET /static/img/twitter_cover.png HTTP/1.1" 200 287476
+[07/Oct/2019 04:19:53] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 04:19:53] "GET /static/img/NLPgraph.png HTTP/1.1" 200 20641
+[07/Oct/2019 04:19:53] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 200 67699
+[07/Oct/2019 04:19:53] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 200 31936
+[07/Oct/2019 04:19:53] "GET /static/img/MIT_AI.jpg HTTP/1.1" 200 329815
+[07/Oct/2019 04:19:53] "GET /static/img/China_AI.jpg HTTP/1.1" 200 94035
+[07/Oct/2019 05:23:48] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 05:23:48] "GET /static/css/style.css HTTP/1.1" 304 0
+[07/Oct/2019 05:23:48] "GET /static/img/logo.png HTTP/1.1" 304 0
+[07/Oct/2019 05:23:48] "GET /static/img/drawings.png HTTP/1.1" 304 0
+[07/Oct/2019 05:23:48] "GET /static/img/image3.jpg HTTP/1.1" 304 0
+[07/Oct/2019 05:23:59] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 05:24:12] "GET /presentation/ HTTP/1.1" 200 10183
+[07/Oct/2019 05:24:12] "GET /static/img/image5.png HTTP/1.1" 304 0
+[07/Oct/2019 05:24:12] "GET /static/img/twitter_cover.png HTTP/1.1" 304 0
+[07/Oct/2019 05:24:12] "GET /static/img/code1.png HTTP/1.1" 200 45729
+[07/Oct/2019 05:24:12] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 304 0
+[07/Oct/2019 05:24:13] "GET /static/img/MIT_AI.jpg HTTP/1.1" 200 329815
+[07/Oct/2019 05:24:13] "GET /static/img/NLPgraph.png HTTP/1.1" 304 0
+[07/Oct/2019 05:24:13] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 304 0
+[07/Oct/2019 05:24:13] "GET /static/img/China_AI.jpg HTTP/1.1" 200 94035
+[07/Oct/2019 05:24:27] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 06:26:16] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 06:26:16] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 06:26:16] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 06:26:16] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 06:26:16] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 10:05:08] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 10:05:51] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[07/Oct/2019 10:06:13] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[07/Oct/2019 10:07:12] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 10:07:23] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/07/24/north-korea-fires-two-projectiles-into-sea-south-korean-military-says/1822759001/ HTTP/1.1" 200 6946
+[07/Oct/2019 10:07:51] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[07/Oct/2019 10:08:02] "GET /presentation/ HTTP/1.1" 200 10177
+[07/Oct/2019 10:08:02] "GET /static/img/code1.png HTTP/1.1" 304 0
+[07/Oct/2019 10:08:02] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[07/Oct/2019 10:08:02] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+[07/Oct/2019 12:30:03] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 12:30:03] "GET /static/css/style.css HTTP/1.1" 304 0
+[07/Oct/2019 12:30:21] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 12:30:21] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 12:30:21] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 12:30:21] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 12:30:21] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 12:31:04] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[07/Oct/2019 12:31:14] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 12:31:22] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[07/Oct/2019 12:31:56] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 12:47:15] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 12:47:15] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 12:47:15] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 12:47:15] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 12:47:15] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 12:47:16] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 12:53:20] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 12:57:14] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 12:57:14] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 12:57:14] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 12:57:14] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 12:57:14] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 12:57:54] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 12:57:54] "GET /static/css/style.css HTTP/1.1" 304 0
+[07/Oct/2019 12:57:54] "GET /static/img/logo.png HTTP/1.1" 304 0
+[07/Oct/2019 12:57:54] "GET /static/img/drawings.png HTTP/1.1" 304 0
+[07/Oct/2019 12:58:26] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 12:58:46] "GET /presentation/ HTTP/1.1" 200 10177
+[07/Oct/2019 12:58:46] "GET /static/img/twitter_cover.png HTTP/1.1" 304 0
+[07/Oct/2019 12:58:46] "GET /static/img/image5.png HTTP/1.1" 304 0
+[07/Oct/2019 12:58:46] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 304 0
+[07/Oct/2019 12:58:46] "GET /static/img/code1.png HTTP/1.1" 304 0
+[07/Oct/2019 12:58:46] "GET /static/img/NLPgraph.png HTTP/1.1" 304 0
+[07/Oct/2019 12:58:46] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 304 0
+[07/Oct/2019 12:58:46] "GET /static/img/MIT_AI.jpg HTTP/1.1" 304 0
+[07/Oct/2019 12:58:46] "GET /static/img/China_AI.jpg HTTP/1.1" 304 0
+[07/Oct/2019 13:32:26] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 13:32:43] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 13:33:02] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 13:33:13] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+Internal Server Error: /SentiA/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/workspace/USpressM3/USpressM3/WebUSAtodaySentimentAnalysis.py", line 66, in sentia
+    title = soup.find(attrs={"class": "asset-headline speakable-headline"}).text
+AttributeError: 'NoneType' object has no attribute 'text'
+[07/Oct/2019 13:34:23] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 500 76310
+Not Found: /favicon.ico
+[07/Oct/2019 13:34:24] "GET /favicon.ico HTTP/1.1" 404 2358
+[07/Oct/2019 13:34:29] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[07/Oct/2019 13:34:37] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 13:34:44] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/06/30/north-korea-kim-jong-un-evade-un-sanctions-get-luxury-limo-despite-trump-maximum-pressure/1523974001/ HTTP/1.1" 200 21334
+[07/Oct/2019 13:35:02] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/06/30/north-korea-kim-jong-un-evade-un-sanctions-get-luxury-limo-despite-trump-maximum-pressure/1523974001/ HTTP/1.1" 200 21334
+[07/Oct/2019 13:38:47] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/08/15/south-koreas-government-held-emergency-national-security-meeting-thursday-after-north-korea-conducte/2026499001/ HTTP/1.1" 200 5787
+[07/Oct/2019 13:41:16] "GET /presentation/ HTTP/1.1" 200 10177
+[07/Oct/2019 13:45:38] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 13:45:38] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 13:45:38] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 13:45:38] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 13:45:38] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 13:45:51] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 13:45:54] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 13:47:47] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[07/Oct/2019 13:59:09] "GET /static/img/logo.png HTTP/1.1" 304 0
+[07/Oct/2019 14:01:17] "GET /presentation HTTP/1.1" 301 0
+[07/Oct/2019 14:01:17] "GET /presentation/ HTTP/1.1" 200 10177
+[07/Oct/2019 14:01:17] "GET /static/img/twitter_cover.png HTTP/1.1" 200 287476
+[07/Oct/2019 14:01:17] "GET /static/img/Plutchik-Model-600.png HTTP/1.1" 200 67699
+[07/Oct/2019 14:01:17] "GET /static/img/code1.png HTTP/1.1" 200 45729
+[07/Oct/2019 14:01:17] "GET /static/img/NLPgraph.png HTTP/1.1" 200 20641
+[07/Oct/2019 14:01:17] "GET /static/img/AI_funding_raised.jpeg HTTP/1.1" 200 31936
+[07/Oct/2019 14:01:17] "GET /static/img/image5.png HTTP/1.1" 200 283201
+[07/Oct/2019 14:01:17] "GET /static/img/China_AI.jpg HTTP/1.1" 200 94035
+[07/Oct/2019 14:01:17] "GET /static/img/MIT_AI.jpg HTTP/1.1" 200 329815
+[07/Oct/2019 14:02:38] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[07/Oct/2019 14:04:32] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[07/Oct/2019 14:05:46] "GET /static/img/logo.png HTTP/1.1" 304 0
+[07/Oct/2019 14:29:52] "GET / HTTP/1.1" 200 28403
+[07/Oct/2019 14:29:53] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[07/Oct/2019 14:29:53] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[07/Oct/2019 14:29:53] "GET /static/css/style.css HTTP/1.1" 200 949
+[07/Oct/2019 14:29:53] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[07/Oct/2019 15:17:08] "GET /static/img/logo.png HTTP/1.1" 304 0
+[08/Oct/2019 03:07:29] "GET / HTTP/1.1" 200 28403
+[08/Oct/2019 03:07:30] "GET /static/css/style.css HTTP/1.1" 304 0
+[08/Oct/2019 03:07:30] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[08/Oct/2019 03:07:30] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[08/Oct/2019 03:07:30] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[08/Oct/2019 05:35:04] "GET / HTTP/1.1" 200 28403
+[08/Oct/2019 05:35:05] "GET /static/css/style.css HTTP/1.1" 304 0
+[08/Oct/2019 05:35:05] "GET /static/img/image3.jpg HTTP/1.1" 304 0
+[08/Oct/2019 05:35:22] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[08/Oct/2019 05:35:38] "GET /SentiA/?links=https://usatoday.com/story/news/world/2019/09/09/typhoon-lingling-hits-north-and-south-korea-death-toll-8/2262399001/ HTTP/1.1" 200 7784
+[08/Oct/2019 05:40:57] "GET /SentiA/?links=https://usatoday.com/story/travel/destinations/2019/07/23/k-beauty-pilgrimage-skincare-fanatic-visits-south-korea/1798848001/ HTTP/1.1" 200 27510
+[08/Oct/2019 05:41:38] "GET /SentiA/?links=%20https://usatoday.com/story/news/world/2019/08/01/north-korea-says-tested-new-rocket-launch-system/1886449001/ HTTP/1.1" 200 12914
+[08/Oct/2019 05:46:20] "GET / HTTP/1.1" 200 28403
+[08/Oct/2019 06:59:07] "GET / HTTP/1.1" 200 28403
+[08/Oct/2019 08:53:34] "GET / HTTP/1.1" 200 28403
+[08/Oct/2019 08:53:34] "GET /static/css/style.css HTTP/1.1" 200 949
+[08/Oct/2019 08:53:34] "GET /static/img/logo.png HTTP/1.1" 200 125102
+[08/Oct/2019 08:53:34] "GET /static/img/drawings.png HTTP/1.1" 200 38212
+[08/Oct/2019 08:53:34] "GET /static/img/image3.jpg HTTP/1.1" 200 71410
+[08/Oct/2019 10:32:23] "GET /static/img/logo.png HTTP/1.1" 304 0
+[08/Oct/2019 12:44:45] "GET / HTTP/1.1" 200 28403
+[08/Oct/2019 12:44:46] "GET /static/css/style.css HTTP/1.1" 304 0
+[08/Oct/2019 12:44:57] "GET /SentiA/?links=https://usatoday.com/story/news/politics/2019/07/01/ivanka-trump-first-daughter-slammed-role-unofficial-diplomat/1616324001/ HTTP/1.1" 200 15891

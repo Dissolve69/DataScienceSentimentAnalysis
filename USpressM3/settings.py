@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'USpressM3.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'NAME': '/workspace/USpressM3/db.sqlite3',
         # 'USER': 'uspressm2', # 데이터베이스 계정
         # 'PASSWORD': 'codefair', # 계정 비밀번호

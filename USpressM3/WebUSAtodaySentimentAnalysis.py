@@ -10,6 +10,7 @@ import re
 def sentia(request):
 
     links = request.GET.get('links')
+    
     positivewordslist=[]
     negativewordslist=[]
 
